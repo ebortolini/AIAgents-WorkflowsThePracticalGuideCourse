@@ -77,3 +77,6 @@ Thumbs.db
 *.log
 pip-log.txt
 pip-delete-this-directory.txt
+
+#SQLite
+*.db
