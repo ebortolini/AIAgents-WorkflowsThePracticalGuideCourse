@@ -80,3 +80,8 @@ pip-delete-this-directory.txt
 
 #SQLite
 *.db
+
+#local folders
+example_posts/*
+new_post/*
+!new_post/ai-workflows-vs-agents.txt
