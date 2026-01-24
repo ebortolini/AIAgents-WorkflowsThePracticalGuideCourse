@@ -85,3 +85,4 @@ pip-delete-this-directory.txt
 example_posts/*
 new_post/*
 !new_post/ai-workflows-vs-agents.txt
+summary_report.md
